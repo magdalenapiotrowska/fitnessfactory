@@ -1,0 +1,172 @@
+
+
+.log-container {
+    background-image: url('../blackmamba.png');
+    text-align: center;
+    padding: 30px;
+    font-size: 18px;
+    height: 600px;
+    color: white;
+    position: relative;
+}
+
+.logowanie_ramka2 {
+    border: green 2px solid;
+    width: 350px;
+    height: 570px;
+    position: absolute;
+    left: 0;
+    right: 0;
+    top: 0;
+    bottom: 0;
+    margin: auto;
+   
+}
+
+.logowanie_ramka {
+    border: green 2px solid;
+    width: 350px;
+    height: 300px;
+    position: absolute;
+    left: 0;
+    right: 0;
+    top: 0;
+    bottom: 0;
+    margin: auto;
+}
+
+
+.login {
+    
+    color: black !important;
+    float: right;
+}
+
+.button-log2 {
+    border: none;
+    padding: 5px 5px 5px 5px;
+    margin: 20px 20px;
+    background-color: #78b949;
+    border-radius: 80px;
+    color: white; 
+    width: 150px;
+    text-align: center;
+}
+
+
+
+.button-wyslij {
+    border: 1px solid #78b949;
+    padding: 8px 8px 8px 8px;
+    margin: 25px 25px;
+    background-color: white;
+    border-radius: 80px;
+    color: #78b949; 
+    width: 150px;
+    text-align: center;
+}
+
+
+
+.button-wyslij:hover {
+    border: 1px solid #78b949;
+    padding: 8px 8px 8px 8px;
+    margin: 25px 25px;
+    background-color: #78b949;
+    border-radius: 80px;
+    color: white; 
+    width: 150px;
+    text-align: center;
+}
+
+
+
+
+.button-szukaj {
+    
+    padding: 8px 8px 8px 8px;
+    
+    background-color: #78b949;
+    border-radius: 80px;
+    color: white; 
+    width: 150px;
+    text-align: center;
+    border: 1px solid #78b949;
+}
+
+.button-szukaj:hover {
+    
+    padding: 8px 8px 8px 8px;
+    
+    background-color: white;
+    border-radius: 80px;
+    color: #78b949; 
+    width: 150px;
+    text-align: center;
+   border: 1px solid #78b949;
+}
+
+.button-zapisz {
+    padding: 8px 8px 8px 8px;
+    
+    background-color: #ff2f00 ;
+    border-radius: 80px;
+    color: white; 
+    width: 150px;
+    text-align: center;
+   border: 1px solid #ff2f00 ;
+    margin-bottom: 10px;
+    
+}
+
+.button-zapisz:hover {
+    
+    padding: 8px 8px 8px 8px;
+    
+    background-color: white;
+    border-radius: 80px;
+    color: #ff2f00  !important; 
+    width: 150px;
+    text-align: center;
+    border: 1px solid #ff2f00 ;
+    margin-bottom: 10px;
+   
+}
+
+
+.button-zapisz-sie:hover {
+    padding: 8px 8px 8px 8px;
+    border-radius: 80px;
+    color: white !important; 
+    width: 150px;
+    text-align: center;
+    border: 1px solid #5bc0de ;
+    margin-bottom: 10px;
+    background-color: #5bc0de;
+    
+}
+
+.button-zapisz-sie {
+    
+    padding: 8px 8px 8px 8px;
+    
+    background-color: white;
+    border-radius: 80px;
+    color: #5bc0de  !important; 
+    width: 150px;
+    text-align: center;
+    border: 1px solid #5bc0de ;
+    margin-bottom: 10px;
+   
+}
+
+
+.error {
+    color: red;
+    margin-top: 10px;
+    margin-bottom: 10px;
+}
+
+.g-recaptcha {
+    margin: 0 auto;
+}
