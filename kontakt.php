@@ -4,7 +4,7 @@
     if(isset($_SESSION['zalogowany']))
     {
         header('Location: kontaktZAL.php');
-        exit();/*przekierowanie wstrzymanie dalszych operacji*/
+        exit();/*przekierowanie wstrzymanie dalszych FUNKCJONALNOSCI 5.07*/
     }
 
 ?>
